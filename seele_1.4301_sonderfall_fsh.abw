@@ -1,0 +1,26 @@
+﻿# ------------------------------------------------------------
+# H i C A D  -  S h e e t  M e t a l  D e v e l o p m e n t  # 
+#                                                            #
+# Technologie Parameter für Kantbleche Fa. Seele             #
+# Material: 1.4301                                           #
+# ------------------------------------------------------------
+#
+# In dieser Datei stehen die Werte. welche bei der Abwicklung 
+# auf die Aussenmasse der Schenkellaengen zuaddiert werden.
+#
+# -> Spalte 1:  bis Blechdicke  -
+# -> Spalte 2:  bis Biegewinkel  | einschliesslich
+# -> Spalte 3:  bis Innenradius -
+# <- Spalte 4:  Korrektursummand in mm (i.d.R. kleiner Null)
+#
+# Die Spalten 1,2 und 3 muessen zuerst nach Spalte 1, dann
+# nach 2 und danach nach Spalte 3 aufsteigend sortiert sein!
+# Die Spalten 1, 2 und 3 muessen jeweils mit 999.000 beendet 
+# werden!
+#
+#   s      w       r        z
+#
+Z Summe der ausseren Schenkellaengen
+5.000 89.000 4.000 -9.060
+5.000 90.000 4.000 -9.280
+5.000 91.000 4.000 -9.160

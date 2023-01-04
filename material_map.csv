@@ -1,0 +1,77 @@
+xxx;name;catalogue-name;mass-density;mat-id;vbme;standard;qa;;
+0;assembly;assembly;0;;;use for assembly - different materials;;;
+120;mild steel;S355J2;8000;MS;;EN 10025-2;3.1 / CE;;
+120+N;mild steel;S355J2+N;8000;MS;;EN 10025-2;3.1 / CE;;
+120C;mild steel;S355J2C;8000;MS;;EN 10025-2;3.1 / CE;;
+120 USA;mild steel;Grade 50;8000;MS;;ASTM A572;Mill Test / Certificate MTC;;
+120 CAN;mild steel;Grade 350W;8000;MS;;CAN/CSA G40.20 / G40.21;Mill Test / Certificate MTC;;
+120W;mild steel;S355J2W;8000;MS;;EN 10025-5;3.1 / CE;;
+120W USA;mild steel;Grade B;8000;MS;;ASTM A588;Mill Test / Certificate MTC;;
+120W CAN;mild steel;Grade 350AT;8000;MS;;CAN/CSA G40.20 / G40.21;Mill Test / Certificate MTC;;
+121;mild steel;S355J2H;8000;MS;;EN 10210-1;3.1 / CE;;
+121+N;mild steel;S355J2H+N;8000;MS;;EN 10210-1;3.1 / CE;;
+130;mild steel;S355NL;8000;MS;;EN 10025-3;3.1 / CE;;
+130 USA;mild steel;Grade D;8000;MS;;ASTM A633;Mill Test / Certificate MTC;;
+142;mild steel;S355MC;8000;MS;;EN 10149-1/-2;03. Jan;;
+150;steel sheets;DX51D + Z275;7900;VA;;EN 10346;02. Feb;;
+201;stainless steel;1.4301 - S235;7900;VA;;EN 10088-4/-5;3.1 incl. ISO 3651-2 IGC / CE;;
+203;stainless steel;1.4401 - S235;7900;VA;;EN 10088-4/-5;3.1 incl. ISO 3651-2 IGC / CE;;
+204;stainless steel;1.4404 - S235;7900;VA;;EN 10088-4/-5;3.1 incl. ISO 3651-2 IGC / CE;;
+205;stainless steel;1.4571 - S235;7900;VA;;EN 10088-4/-5;3.1 incl. ISO 3651-2 IGC / CE;;
+210;stainless steel;1.4462 - S460;7900;VA;;EN 10088-4/-5;3.1 incl. ISO 3651-2 IGC / CE;;
+219;stainless steel;1.4404 - S355;7900;VA;;EN 10088-4/-5;3.1 incl. ISO 3651-2 IGC / CE;;
+222;stainless steel;1.4470 - S235;7900;VA;;EN 10088-4/-5;3.1 incl. ISO 3651-2 IGC / CE;;
+302;aluminium;EN AW-5005 H14;2700;AL;m2;EN 485;2.2 t<2mm / 3.1 t>2mm;;
+303;aluminium;EN AW-5005 H24;2700;AL;m2;EN 485;03. Jan;;
+304;aluminium;EN AW-5754 H111;2700;AL;m2;EN 485;03. Jan;;
+305;aluminium;EN AW-5754 H14;2700;AL;m2;EN 485;03. Jan;;
+319;aluminium;EN AW-5754 H22;2700;AL;m2;EN 485;03. Jan;;
+320;aluminium;EN AW-6060 T66;2700;AL;m;EN 12020 + EN 755;03. Jan;;
+321;aluminium;EN AW-6063 T6;2700;AL;m;EN 12020 + EN 755;03. Jan;;
+322;aluminium;EN AW-6082 T6;2700;AL;m;EN 755-9 + EN 755;03. Jan;;
+400;titanium;3.7025 TiCP Grade 1;4500;;;EN 17860 + EN 17862;-;;
+401;titanium;3.7035 TiCP Grade 2;4500;;;EN 17860 + EN 17862;-;;
+402;titanium;3.7165 TiAl6 V4;4500;;;EN 17860 + EN 17862;-;;
+420;brass;CuZn37 R350;8500;BRASS;;-;03. Jan;;
+421;brass;CuZn33 R350;8500;BRASS;;-;03. Jan;;
+441;bronze;CuSn6;8500;;;-;03. Jan;;
+442;bronze;CuSn8;8500;;;-;03. Jan;;
+601;silicone;Silikon Shore 60;1500;SILIKON;;SIKA WS-605 S;ISO 11600;-;
+602;silicone;Silikon Shore 60;1500;SILIKON;;Dow Corning DC791;ISO 11600;-;
+611;SG-silicone;Silikon Shore 60;1500;SILIKON;;SIKA SG-500;ISO 13022;ETA;
+612;SG-silicone;Silikon Shore 60;1500;SILIKON;;DOW Corning DC993;ISO 13022;ETA;
+613;SG-silicone;Silikon Shore 60;1500;SILIKON;;DOW Corning DC983SGS;-;-;
+620;seal;Terostat 2000MF;1500;EPDM;;-;-;;
+621;seal;Terostat Alu Fixband;1500;EPDM;;-;-;;
+701;silicone gasket;silicone gasket;1500;SILIKON;;60� shore, black;DIN 7863;-;
+702;EPDM gasket;EPDM gasket;1500;EPDM;;60� shore, black;DIN 7863;-;
+703;gaskets;Silicone hose;1500;SILIKON;;;;;
+751;mebrane water tight;Novoproof FA;1500;FOIL;;EN 13967;-;;
+752;mebrane vapour tight;Novoproof FA-I;1500;FOIL;;EN 13967;-;;
+800;insulation;Mineralwool - Rockwool;100;INSULATION;;EN 13162;CE;;
+801;insulation;mineralwool - Glasswool;100;INSULATION;;EN 13162;CE;;
+802;insulation;EPS;90;INSULATION;;EN 13163;CE;;
+803;insulation;XPS;40;INSULATION;;EN 13164;CE;;
+804;insulation;PUR rigid foam;1250;INSULATION;;EN 13165;CE;;
+851;plastic;PA;1150;PLASTIC;;-;-;;
+852;plastic;PE;970;PE;;-;-;;
+853;plastic;PUR;1250;PLASTIC;;PUR recycling panels;-;-;
+854;plastic;PVC;1300;PVC;;-;-;;
+855;plastic;PP;895;PLASTIC;;-;-;;
+861;plastic;PTFE;2200;PTFE;;-;-;;
+862;sliding membrane;Norglide;1000;PVC;;Norglide MP3;-;-;
+863;sliding membrane;Silicon gasket;1500;SILIKON;;Chemstik 700-5S;-;-;
+864;sliding sleeve;IGUS;1000;PE;;-;-;;
+870;PE foam profile;PE-foam;150;PE;;backer rod;-;-;
+881;Injection mortar;Vergussmörtel;2600;GROUTING;;HILTI HIT HY 270;-;-;
+882;elastic grouting;Vergussmörtel;2600;GROUTING;;Icosit KC 340/7;-;-;
+886;cementeous grout;Vergussmörtel;2600;GROUTING;;Pagel V1-10;-;-;
+887;cementeous grout;Vergussmörtel;2600;GROUTING;;PCI Repaflow;-;-;
+1000;glass;Glas;2500;GL;m2;-;-;-;-
+1001;Float-glass;Float;2500;GL;m2;-;-;-;-
+1002;TVG-glass;TVG;2500;GL;m2;-;-;-;-
+1003;ESG-glass;ESG;2500;GL;m2;-;-;-;-
+1004;VSG-glass;VSG;2500;GL;m2;-;-;-;-
+1005;ISO-glass;Glas;2500;GL;m2;-;-;-;-
+1020;PVB-Folie;PVB-Folie;1100;PVB;m2;-;-;-;-
+1021;SGP Folie;SGP Folie;1500;SGP;m2;-;-;-;-
